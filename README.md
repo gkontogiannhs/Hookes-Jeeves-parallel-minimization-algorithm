@@ -2,9 +2,12 @@
 - Pthreads
 - OpenMP
 - MPI
+- openMP Tasks
 - OpenMP + MPI
 
 
-![alt text](http://url/to/img.png) ![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+openMP            |  MPI
+:-------------------------:|:-------------------------:
+![](https://github.com/gkontogiannhs/Parallel-Computing/blob/main/parallel-computing-graphs/openMP.png)  |  ![](https://github.com/gkontogiannhs/Parallel-Computing/blob/main/parallel-computing-graphs/conculsion.png)
+openMP Tasks              |    openMP + MPI
+![](https://github.com/gkontogiannhs/Parallel-Computing/blob/main/parallel-computing-graphs/tasksMP.png) | ![](https://github.com/gkontogiannhs/Parallel-Computing/blob/main/parallel-computing-graphs/hybrid.png)
